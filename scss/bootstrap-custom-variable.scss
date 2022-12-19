@@ -51,7 +51,7 @@
 
 
   background-image:
-    // linear-gradient(#0009, #0009),
+    linear-gradient(#0003, #0003),
     url("../images/10.jpg");
   background-position: center;
   background-size: cover;
@@ -181,7 +181,7 @@ background-color:#e0e1dd !important;
  }
 $theme-colors: (
     "secondary": #0d1b2a,
-  "primary": #778da9,
+  "primary": #1151a5,
   "success": rgb(99, 161, 66),
   "info": rgb(216, 216, 216)
   
@@ -216,7 +216,7 @@ $theme-colors: (
 }
 
 .okl{
-  color: #f1e03f !important;
+  color: #fceb00 !important;
 }
 .tt{
   text-align: center;
